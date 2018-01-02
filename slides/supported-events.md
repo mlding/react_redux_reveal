@@ -1,0 +1,3 @@
+##  supported events
+
+onKeyDown, onKeyPress, onKeyUp, onFocus, onBlur, onChange, onInput, onSubmit, onClick, onDrag, onDragEnd, onMouseMove, onMouseDown, onMouseEnter, onMouseLeave, onScroll ... ...
